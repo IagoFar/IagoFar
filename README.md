@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @X341yt
 - 👀 I’m interested in programing
-- 🌱 I’m currently learning in secundary 😫
+- 🌱 I’m currently learning in mid grade
 - 📫 How to reach me: neilagaliza1@gmail.com
 
 <!---
