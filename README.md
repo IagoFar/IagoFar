@@ -13,7 +13,6 @@ Hi, I'm Iago Fariñas, a Spanish web and JS developer that loves to be in compan
 - **web**: My CV. Currently, in progress
 - **MTR-MP**: An [MTR](https://github.com/Minecraft-Transit-Railway/Minecraft-Transit-Railway) add-on to make stations multiplatformed
 - **discord-missionbot**: A discord bot to remind my server of events
-- **Jugando ando**: My discord server to talk and play with friends
 
 ## Technologies 🔧
 
@@ -29,6 +28,8 @@ I'm open to collabs on projects and commissions to improve myself. Feel free to 
 - **LinkedIn** [Iago Fariñas](https://www.linkedin.com/in/iago-fari%C3%B1as-120610299/)
 - **Web** [Currently not available]
 - **Discord** [X-Hub](https://discord.gg/6VbBDMTBdc)
+
+![X-Hub](https://discord.com/api/guilds/1282772371639500840/widget.png?style=banner3)
 
 ## Stats 📊
 ![IagoFar's Stats](https://github-readme-stats.vercel.app/api?username=IagoFar&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
