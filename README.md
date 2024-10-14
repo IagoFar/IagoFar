@@ -28,7 +28,7 @@ I'm open to collabs on projects and commissions to improve myself. Feel free to 
 - **E-mail** [neilagaliza1@gmail.com](mailto:neilagaliza1@gmail.com)
 - **LinkedIn** [Iago Fariñas](https://www.linkedin.com/in/iago-fari%C3%B1as-120610299/)
 - **Web** [Currently not available]
-- **Discord** [X-Hub](https://discord.gg/44cfHuBxwW)
+- **Discord** [X-Hub](https://discord.gg/6VbBDMTBdc)
 
 ## Stats 📊
 ![IagoFar's Stats](https://github-readme-stats.vercel.app/api?username=IagoFar&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
