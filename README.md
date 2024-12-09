@@ -24,7 +24,7 @@ Python, JavaScript, Php, Laravel, HTML, Node.js, and more to come
 
 I'm open to collabs on projects and commissions to improve myself. Feel free to reach out to me with any of these links.
 
-- **E-mail** [neilagaliza1@gmail.com](mailto:neilagaliza1@gmail.com)
+- **E-mail** [contact@x341.me](mailto:contact@x341.me)
 - **LinkedIn** [Iago Fariñas](https://www.linkedin.com/in/iago-fari%C3%B1as-120610299/)
 - **Web** [www.x341.me](https://www.x341.me)
 - **Discord** [X-Hub](https://discord.gg/6VbBDMTBdc)
