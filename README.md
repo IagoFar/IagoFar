@@ -11,8 +11,7 @@ Hi, I'm Iago Fariñas, a Spanish web and JS developer that loves to be in compan
 ## Featured projects 🌟
 
 - **web**: My CV. Currently, in progress
-- **MTR-MP**: An [MTR](https://github.com/Minecraft-Transit-Railway/Minecraft-Transit-Railway) add-on to make stations multiplatformed
-- **discord-missionbot**: A discord bot to remind my server of events
+- **ModHelper**: A Minecraft mod to make moderators and helpers work more easy. Private for now 
 
 ## Technologies 🔧
 
