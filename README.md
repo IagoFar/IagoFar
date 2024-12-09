@@ -26,7 +26,7 @@ I'm open to collabs on projects and commissions to improve myself. Feel free to 
 
 - **E-mail** [neilagaliza1@gmail.com](mailto:neilagaliza1@gmail.com)
 - **LinkedIn** [Iago Fariñas](https://www.linkedin.com/in/iago-fari%C3%B1as-120610299/)
-- **Web** [Currently not available]
+- **Web** [www.x341.me](https://www.x341.me)
 - **Discord** [X-Hub](https://discord.gg/6VbBDMTBdc)
 
 ![X-Hub](https://discord.com/api/guilds/1282772371639500840/widget.png?style=banner3)
