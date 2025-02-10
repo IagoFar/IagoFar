@@ -10,7 +10,7 @@ Hi, I'm Iago Fariñas, a Spanish web and JS developer that loves to be in compan
 
 ## Featured projects 🌟
 
-- **web**: My CV. Currently, in progress
+- **react-web**: My portfolio. Currently, in progress
 - **ModHelper**: A Minecraft mod to make moderators and helpers work more easy. Private for now 
 
 ## Technologies 🔧
@@ -25,7 +25,7 @@ I'm open to collabs on projects and commissions to improve myself. Feel free to 
 
 - **E-mail** [contact@x341.me](mailto:contact@x341.me)
 - **LinkedIn** [Iago Fariñas](https://www.linkedin.com/in/iago-fari%C3%B1as-120610299/)
-- **Web** [www.x341.me](https://www.x341.me)
+- **Web** ~~www.x341.es~~ W.I.P
 - **Discord** [X-Hub](https://discord.gg/6VbBDMTBdc)
 
 ![X-Hub](https://discord.com/api/guilds/1282772371639500840/widget.png?style=banner3)
